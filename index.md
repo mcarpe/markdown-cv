@@ -11,9 +11,16 @@ Lecturer in Environmental Fluid Mechanics
 </div>
 
 
-## Currently
+## Employment
 
-Standing on the shoulders of giants
+`2013 - now`
+__Lecturer__, Mechanical Engineering Sciences, University of Surrey.
+
+`2013 - 2013`
+__Research Associate__, Civil, Environmental & Geomatic Engineering, University College London.
+
+`2010 - 2013`
+__Research Fellow__, CEE Engineering/Maths, University of Surrey.
 
 ### Specialized in
 
